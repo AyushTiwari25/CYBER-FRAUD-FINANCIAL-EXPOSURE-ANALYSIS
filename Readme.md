@@ -18,12 +18,11 @@
 
 </div>
 
----
 
 # 🛡️ CYBER FRAUD FINANCIAL EXPOSURE ANALYSIS  
 ### 🇮🇳 India | 2021 – 2026  
 
----
+
 
 ## 💎 Executive KPI Glass Panel
 
@@ -45,18 +44,18 @@
 
 </div>
 
----
+
 
 # 🌌 National Dashboard Intelligence Module
 
----
+
 
 ## 🖥️ Main National Overview
 
 <p align="center">
 <img width="1024" height="577" alt="main state overview" src="https://github.com/user-attachments/assets/e633b17a-8778-43d9-94df-9116edaeafef" />
 </p>
----
+
 
 ## 🗺️ Geographical Risk Mapping
 
@@ -64,7 +63,7 @@
   <img width="1212" height="485" alt="Geograph image" src="https://github.com/user-attachments/assets/a524d778-f89b-4ba8-a0ad-b1c2ad433421" />
 </p>
 
----
+
 
 ## 📊 Fraud Severity & Risk Positioning
 
@@ -79,7 +78,7 @@
 <img width="723" height="408" alt="contribution file" src="https://github.com/user-attachments/assets/92a021d2-be65-4a2a-b280-e09bed11f15a" />
 </p>
 
----
+
 
 # 🗺️ State-Level Cyber Activity Analysis
 
@@ -101,7 +100,7 @@
 ### 🏆 Uttar Pradesh  
 **Total Cases: 109,561**
 
----
+
 
 ## 🔝 Top 5 States by Total Scam Cases (2021–2025)
 
@@ -113,7 +112,7 @@
 | 4️⃣ | Maharashtra | 106,413 |
 | 5️⃣ | Madhya Pradesh | 105,909 |
 
----
+
 
 # 🔥 Top Fraud Intelligence
 
@@ -121,12 +120,12 @@
   <img width="461" height="78" alt="total case" src="https://github.com/user-attachments/assets/6d7a26f4-389f-4519-9b72-4092ab7fb9cb" />
 </div>
 
----
+
 
 ## 🥇 Investment Scam  
 ### 💰 ₹2933 Million Total Loss  
 
----
+
 
 # 🧠 Fraud Contribution Distribution
 
@@ -144,7 +143,7 @@
 | 4 | UPI Fraud | 11.07% |
 | 5 | Phishing | 11.05% |
 
----
+
 
 # ⚡ Analytical Capabilities
 
@@ -166,7 +165,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg" height="60" alt="India Cyber Security"/>
 </p>
 
----# 🧩 Repository Structure
+# 🧩 Repository Structure
 
 ```
 📂 assets
@@ -185,7 +184,7 @@
    └── CYBER ANALYSIS.pdf
 ```
 
----
+
 
 # 🚀 Strategic Impact
 
@@ -197,46 +196,8 @@ This dashboard enables:
 - 📊 National-Level Policy Planning  
 - 🔐 Financial Exposure Reduction Strategy  
 
----
+
 # 👨‍💻 Author
-
-**Ayush Tiwari**  
-Data Analyst | Business Intelligence Developer | Risk Intelligence Enthusiast  
-
----
-
-## 📬 Connect With Me
-
-<p>
-
-<a href="mailto:ayushtiwariworkk@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="22" alt="Gmail"/>
-</a>
-&nbsp;<strong>ayushtiwariworkk@gmail.com</strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ayush-tiwari-883060286/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="22" alt="LinkedIn"/>
-</a>
-&nbsp;<strong>linkedin.com/in/ayush-tiwari-883060286</strong>
-
-</p>
-
----
-
-## ⚠️ Disclaimer
-
-> The dataset used in this project is **AI-generated and simulated for analytical demonstration purposes only**.  
-> It does not represent real government records or actual cyber crime statistics.
-
----
-
-<p>
-© 2026 Ayush Tiwari. All Rights Reserved.
-</p>
-
----# 👨‍💻 Author
 
 **Ayush Tiwari**  
 Data Analyst | Business Intelligence Developer | Risk Intelligence Enthusiast  
