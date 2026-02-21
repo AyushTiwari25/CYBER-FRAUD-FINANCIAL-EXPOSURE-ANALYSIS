@@ -198,10 +198,80 @@ This dashboard enables:
 - 🔐 Financial Exposure Reduction Strategy  
 
 ---
-
 # 👨‍💻 Author
 
 **Ayush Tiwari**  
 Data Analyst | Business Intelligence Developer | Risk Intelligence Enthusiast  
+
+---
+
+## 📬 Connect With Me
+
+<p>
+
+<a href="mailto:ayushtiwariworkk@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="22" alt="Gmail"/>
+</a>
+&nbsp;<strong>ayushtiwariworkk@gmail.com</strong>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ayush-tiwari-883060286/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="22" alt="LinkedIn"/>
+</a>
+&nbsp;<strong>linkedin.com/in/ayush-tiwari-883060286</strong>
+
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+> The dataset used in this project is **AI-generated and simulated for analytical demonstration purposes only**.  
+> It does not represent real government records or actual cyber crime statistics.
+
+---
+
+<p>
+© 2026 Ayush Tiwari. All Rights Reserved.
+</p>
+
+---# 👨‍💻 Author
+
+**Ayush Tiwari**  
+Data Analyst | Business Intelligence Developer | Risk Intelligence Enthusiast  
+
+---
+
+## 📬 Connect With Me
+
+<p>
+
+<a href="mailto:ayushtiwariworkk@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="22" alt="Gmail"/>
+</a>
+&nbsp;<strong>ayushtiwariworkk@gmail.com</strong>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ayush-tiwari-883060286/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="22" alt="LinkedIn"/>
+</a>
+&nbsp;<strong>linkedin.com/in/ayush-tiwari-883060286</strong>
+
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+> The dataset used in this project is **AI-generated and simulated for analytical demonstration purposes only**.  
+> It does not represent real government records or actual cyber crime statistics.
+
+---
+
+<p align="center">
+© 2026 Ayush Tiwari. All Rights Reserved.
+</p>
 
 ---
